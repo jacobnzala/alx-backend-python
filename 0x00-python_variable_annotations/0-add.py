@@ -2,8 +2,6 @@
 """
     Module with typing Python
 """
-
-
 def add(a: float, b: float) -> float:
     """
         Args:
